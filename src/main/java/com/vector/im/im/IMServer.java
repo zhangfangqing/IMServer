@@ -1,14 +1,9 @@
 package com.vector.im.im;
 
-import com.vector.im.config.Config;
-import com.vector.im.manager.IMLoginManager;
-import com.vector.im.manager.IMTestManager;
-import com.vector.im.manager.IMUserManager;
-
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import io.netty.channel.Channel;
+import com.vector.im.config.Config;
 
 /**
  *
